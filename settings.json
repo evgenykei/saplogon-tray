@@ -1,0 +1,23 @@
+[
+    {
+        "label": "SYST1",
+        "parameters": [
+            "-system=SID",
+            "-client=XXX",
+            "-user=USER",
+            "-pw=password",
+            "-command=start_transaction"
+        ]
+    },
+    {
+        "label": "SYST2",
+        "parameters": [
+            "-system=SID",
+            "-client=XXX",
+            "-user=USER2",
+            "-pw=password",
+            "-command=start_transaction"
+        ]
+    }   
+
+]
